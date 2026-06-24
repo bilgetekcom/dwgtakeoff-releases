@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "release_date": "2026-06-24",
+  "channel": "stable",
+  "download_url": "https://github.com/bilgetekcom/dwgtakeoff-releases/releases/download/v0.1.0/DwgTakeoff_Setup.exe",
+  "checksum_sha256": "ae1137ba35b6b992b70939c29812465134a26a9990f702cdfcc056e9f1f35954",
+  "release_notes": { "tr": "İlk sürüm.", "en": "Initial release." }
+}
