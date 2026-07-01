@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.1",
+    "version":  "0.1.2",
     "release_date":  "2026-07-01",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.1/Panoplus_Setup.exe",
-    "checksum_sha256":  "1f4ceca1b6fc837bbb66f0063f833a8ce7add0d5e45cc6ee2e0665f7d43821b6",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.2/Panoplus_Setup.exe",
+    "checksum_sha256":  "4aed514cdcf152630fabace72e36d75a2760ba4cff6001574e12aad413b22e30",
     "release_notes":  {
-                          "tr":  "Lisanssiz kullanimda 1 cizim deneme hakki. PDF/Excel ciktisi icin tam lisans gerekir. Kararlilik iyilestirmeleri.",
-                          "en":  "Free tier now allows 1 trial drawing. PDF/Excel export requires a full license. Stability improvements."
+                          "tr":  "Demo (deneme) lisansinda PDF/Excel ciktisi tam ozellikli acildi. Lisanssiz kullanimda 1 cizim deneme hakki.",
+                          "en":  "Demo/trial licenses can now export full PDF/Excel. Free tier allows 1 trial drawing."
                       }
 }
