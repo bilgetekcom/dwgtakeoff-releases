@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.2",
+    "version":  "0.1.3",
     "release_date":  "2026-07-01",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.2/Panoplus_Setup.exe",
-    "checksum_sha256":  "4aed514cdcf152630fabace72e36d75a2760ba4cff6001574e12aad413b22e30",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.3/Panoplus_Setup.exe",
+    "checksum_sha256":  "bea45c0d63e1f3dfd93d9dbe2f8db3cfefaf4eef767b6f5cb6d6bd63e5c1fa3e",
     "release_notes":  {
-                          "tr":  "Demo (deneme) lisansinda PDF/Excel ciktisi tam ozellikli acildi. Lisanssiz kullanimda 1 cizim deneme hakki.",
-                          "en":  "Demo/trial licenses can now export full PDF/Excel. Free tier allows 1 trial drawing."
+                          "tr":  "Guncelleme sonrasi otomatik yeniden baslatma duzeltildi. Demo modunda kalan cizim hakki dogru gosteriliyor.",
+                          "en":  "Auto-restart after update fixed. Demo remaining-drawings count now shown correctly."
                       }
 }
