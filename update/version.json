@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.3",
-    "release_date":  "2026-07-01",
+    "version":  "0.1.4",
+    "release_date":  "2026-07-09",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.3/Panoplus_Setup.exe",
-    "checksum_sha256":  "bea45c0d63e1f3dfd93d9dbe2f8db3cfefaf4eef767b6f5cb6d6bd63e5c1fa3e",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.4/Panoplus_Setup.exe",
+    "checksum_sha256":  "d237d296ff6c2aa3dd5112c8d704eaa3c032bcc5327f3cc884d518e7cd016379",
     "release_notes":  {
-                          "tr":  "Guncelleme sonrasi otomatik yeniden baslatma duzeltildi. Demo modunda kalan cizim hakki dogru gosteriliyor.",
-                          "en":  "Auto-restart after update fixed. Demo remaining-drawings count now shown correctly."
+                          "tr":  "Cikarim dogrulugu: hayalet cihaz kalemi giderildi, kontaktor ve guc kaynagi artik taniniyor, pako/kam salteri otomat sigortadan ayirt ediliyor.",
+                          "en":  "Takeoff accuracy: phantom device line removed; contactor and power supply now recognized; cam/rotary switch distinguished from MCB."
                       }
 }
